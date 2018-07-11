@@ -1,4 +1,4 @@
->需要源码中的Key的朋友私聊或加我QQ：2811481636
+>需要源码中的Key的朋友私聊或加我QQ：2811481636，这里有[视频演示效果](http://yxshare.oss-cn-hangzhou.aliyuncs.com/flyoffline/%E6%8A%96%E9%9F%B3%E8%A7%86%E9%A2%91%E6%BC%94%E7%A4%BA.mp4)。请确保你看得懂这些go的代码再问我要Key，我这边不写其他语言的demo，也不写那些刷的软件。
 
 >大家可以围观作者的另一款产品：[马上下——在线磁力链下载服务](https://wapp.flyoffline.com/)。*世界杯期间免费送卡，每天进几球送几张卡*。
 
