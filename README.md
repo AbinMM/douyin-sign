@@ -1,3 +1,7 @@
+>温馨提醒：
+
+*抖音7月12日发布了v2.0.0的版本，加了一个策略：如果你登录过一个较大的版本号(比如1.9.8)，那么再登录回较低的版本号（1.7.2），会提示“为确保账户安全，请升级最新版本进行操作”。*
+
 > 看不懂算法也想撸起来的朋友看这个：[https://github.com/sweet8-asia/douyin-demo](https://github.com/sweet8-asia/douyin-demo)
 
 > 这里有一个演示的网页Demo:[http://toolher.com/douyin_video](http://toolher.com/douyin_video)，用于批量获取某个抖音号的所有无水印视频。
